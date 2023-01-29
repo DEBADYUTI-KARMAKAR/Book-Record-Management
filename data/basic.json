@@ -21,6 +21,25 @@
             "returnDate":"01/10/2021",
             "subscriptionType":"Basic",
             "subscriptionDate":"03/01/2022"
+        },
+        {
+            "id":"3",
+            "name":"Joe",
+            "surname":"Hamil",
+            "email": "hm@gmail.com",
+            "issuedBook":"3",
+            "issuedDate":"01/07/2021",
+            "returnDate":"01/10/2021",
+            "subscriptionType":"Basic",
+            "subscriptionDate":"01/01/2022"
+        },
+        {
+            "id":"4",
+            "name":"Will",
+            "surname":"Root",
+            "email": "root@gmail.com",
+            "subscriptionType":"Premium",
+            "subscriptionDate":"01/01/2022"
         }
     ]
 }

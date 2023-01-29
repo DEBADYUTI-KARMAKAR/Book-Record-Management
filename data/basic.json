@@ -1,0 +1,26 @@
+{
+    "users":[
+        {
+            "id":"1",
+            "name":"John",
+            "surname":"Doe",
+            "email": "jondoe@gmail.com",
+            "issuedBook":"1",
+            "issuedDate":"01/07/2021",
+            "returnDate":"01/10/2021",
+            "subscriptionType":"Basic",
+            "subscriptionDate":"01/07/2022"
+        },
+        {
+            "id":"2",
+            "name":"Jack",
+            "surname":"Root",
+            "email": "jack@gmail.com",
+            "issuedBook":"2",
+            "issuedDate":"01/07/2021",
+            "returnDate":"01/10/2021",
+            "subscriptionType":"Basic",
+            "subscriptionDate":"03/01/2022"
+        }
+    ]
+}

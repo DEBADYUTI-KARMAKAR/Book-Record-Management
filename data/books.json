@@ -1,0 +1,37 @@
+{
+    "books":[
+        {
+
+            "id": "1",
+            "name":"The Hobbit",
+            "author":"J.R.R. Tolkien",
+            "price":"$29.99",
+            "genre":"Fantasy",
+            "publisher":"Houghton Mifflin Harcourt",
+            "publish_date":"September 21, 2012",
+            "description":"The Hobbit is a children's fantasy novel by English author J. R. R. Tolkien. It was published on 21 September 1937 to wide critical acclaim, being nominated for the Carnegie Medal and awarded a prize from the New York Herald Tribune for best juvenile fiction. The book remains popular and is recognized as a classic in children's literature.",
+        },
+        {
+            "id":"2",
+            "name":"The Lord of the Rings",
+            "author":"J.R.R. Tolkien",
+            "price":"$29.99",
+            "genre":"Fantasy",
+            "publisher":"Houghton Mifflin Harcourt",
+            "publish_date":"September 21, 2012",
+            "description":"The Lord of the Rings is an epic high fantasy novel written by English author and scholar J. R. R. Tolkien. The story began as a sequel to Tolkien's 1937 fantasy novel The Hobbit, but eventually developed into a much larger work. Written in stages between 1937 and 1949, The Lord of the Rings is one of the best-selling novels ever written, with over 150 million copies sold.",
+        },
+        {
+            "id":"3",
+            "name":"The Land Before Time",
+            "author":"Judith and Donald Verret",
+            "price":"$29.99",
+            "genre":"Children's",
+            "publisher":"Houghton Mifflin Harcourt",
+            "publish_date":"September 21, 2012",
+            "description":"The Land Before Time is a series of American animated adventure films directed by Don Bluth and produced by Amblin Entertainment. The first film, The Land Before Time, was released in 1988, and the most recent film, The Land Before Time XIV: Journey of the Brave, was released in 2016. The series follows a group of young dinosaurs as they learn about life, struggle to survive, and try to find their way home.",
+            
+        }
+
+        ]
+}
